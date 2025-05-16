@@ -1,4 +1,4 @@
-# Imers-o-Alura
+# Imersão-Alura
 
 # SaúdeBot: Seu Assistente Inteligente para Artigos da Área da Saúde
 
